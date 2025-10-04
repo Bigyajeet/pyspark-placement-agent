@@ -1,7 +1,7 @@
 
 #  PySpark Placement Agent Shortlister
 
-A scalable data processing application built using **PySpark** and the **Spark-Excel connector** to efficiently shortlist student candidates based on complex, configurable job requirements defined in a Python dictionary.
+This AI agent is an instantaneous screening tool designed specifically to help Training and Placement Officers (TPOs) manage high-volume campus recruitment. It uses algorithmic matching to process candidate profiles against job requirements for skills, experience, and academic criteria. The agent can select or reject candidates within seconds based on predefined rules, streamlining the initial filtering process and allowing TPOs to focus only on highly relevant candidates.
 
 ## 🎯 Project Goal
 
